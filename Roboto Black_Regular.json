@@ -1,0 +1,42 @@
+{
+    "glyphs": {
+        "o": {
+            "ha": 780,
+            "x_min": 35,
+            "x_max": 743,
+            "o": "m 35 374 l 36 335 q 138 80 43 174 q 390 -14 233 -14 q 648 87 553 -14 q 743 359 743 188 l 743 368 q 648 645 743 543 q 389 747 553 747 q 201 701 281 747 q 78 569 121 655 q 35 374 35 484 m 264 359 l 264 401 q 389 571 274 571 q 515 374 515 571 l 515 351 q 390 163 512 163 q 296 210 328 163 q 264 359 264 258 "
+        }
+    },
+    "familyName": "Roboto Black",
+    "ascender": 1289,
+    "descender": -339,
+    "underlinePosition": -102,
+    "underlineThickness": 68,
+    "boundingBox": {
+        "yMin": -376,
+        "xMin": -1001,
+        "yMax": 1467,
+        "xMax": 1683
+    },
+    "resolution": 1000,
+    "original_font_information": {
+        "format": 0,
+        "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
+        "fontFamily": "Roboto Black",
+        "fontSubfamily": "Regular",
+        "uniqueID": "Roboto Black",
+        "fullName": "Roboto Black",
+        "version": "Version 2.137; 2017",
+        "postScriptName": "Roboto-Black",
+        "trademark": "Roboto is a trademark of Google.",
+        "designer": "Google",
+        "manufacturerURL": "Google.com",
+        "designerURL": "Christian Robertson",
+        "licence": "Licensed under the Apache License, Version 2.0",
+        "licenceURL": "http://www.apache.org/licenses/LICENSE-2.0",
+        "preferredFamily": "Roboto",
+        "preferredSubfamily": "Black"
+    },
+    "cssFontWeight": "normal",
+    "cssFontStyle": "normal"
+}
