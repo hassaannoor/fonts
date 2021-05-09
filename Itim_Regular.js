@@ -26,7 +26,7 @@ if (_typeface_js && _typeface_js.loadFace) _typeface_js.loadFace({
         }
     },
     "familyName": "Itim",
-    "ascender": 1319,
+    "ascender": 1819,
     "descender": -347,
     "underlinePosition": -104,
     "underlineThickness": 69,
